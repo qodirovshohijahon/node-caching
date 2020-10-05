@@ -13,12 +13,12 @@ If you don’t have Node.js installed just head on to the official Node.js websi
 
 Instructions:
 ``javascript
-wget http://download.redis.io/redis-stable.tar.gz
-tar xvzf redis-stable.tar.gz
-cd redis-stable
-make test
-sudo make install
-redis-server
-redis-cli ping
-make
+* wget http://download.redis.io/redis-stable.tar.gz
+* tar xvzf redis-stable.tar.gz
+* cd redis-stable
+* make test
+* sudo make install
+* redis-server
+* redis-cli ping
+* make
 ``
